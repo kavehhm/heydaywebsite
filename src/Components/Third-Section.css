@@ -7,7 +7,7 @@
 .approach {
   margin-top: 5rem;
   margin-bottom: 0;
-  font-size: 4rem;
+  font-size: 3rem;
   font-weight: 700;
   background: -webkit-linear-gradient(right, #2f80ed, #56ccf2) !important;
   -webkit-background-clip: text !important;
@@ -58,6 +58,10 @@
 
   .instagram {
     width: 45%
+  }
+
+  .approach {
+    font-size: 4rem;
   }
 }
 
