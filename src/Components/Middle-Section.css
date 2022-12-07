@@ -52,7 +52,7 @@
 }
 
 .topnum {
-    font-size: 5rem;
+    font-size: 4rem;
     margin: 2rem auto;
 }
 
@@ -70,6 +70,10 @@
 
     .revgen {
         font-size: 3rem;
+    }
+
+    .topnum {
+        font-size: 5rem;
     }
   }
 
