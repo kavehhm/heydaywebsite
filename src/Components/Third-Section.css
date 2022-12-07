@@ -1,0 +1,68 @@
+@import url("https://fonts.googleapis.com/css2?family=Montserrat:wght@400;600;700&family=Raleway:wght@400;600;700&display=swap");
+
+.parting p, .parting h1 {
+  font-family: "Montserrat", Helvetica, sans-serif;
+}
+
+.approach {
+  margin-top: 5rem;
+  margin-bottom: 0;
+  font-size: 4rem;
+  font-weight: 700;
+  background: -webkit-linear-gradient(right, #2f80ed, #56ccf2) !important;
+  -webkit-background-clip: text !important;
+  -webkit-text-fill-color: transparent !important;
+}
+
+.advertising {
+  font-family: "Raleway", Helvetica, sans-serif;
+  font-weight: normal;
+  color: rgb(45, 45, 45);
+  font-size: 1.3rem;
+  font-style: italic;
+  margin-top: 0.5rem;
+  margin-bottom: 5rem;
+}
+
+.information {
+  display: flex;
+  padding: 0 0rem;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+}
+
+.instagram {
+  width: 20rem;
+  margin-left: 4rem;
+  object-fit: contain;
+}
+
+.paragraph {
+  font-weight: normal;
+  font-size: 1.2rem;
+  margin-bottom: 3rem;
+  text-align: left;
+}
+
+.paragraphs {
+  width: 55%;
+}
+
+@media screen and (min-width: 1000px) {
+  .information {
+    padding: 0 6rem;
+    flex-direction: row;
+    align-items: flex-start;
+  }
+
+  .instagram {
+    width: 45%
+  }
+}
+
+@media screen and (min-width: 1600px) {
+  .information {
+    padding: 0 25rem;
+  }
+}

@@ -1,0 +1,108 @@
+@import url("https://fonts.googleapis.com/css2?family=Montserrat:wght@400;600;700&family=Raleway:wght@400;600;700&display=swap");
+
+p {
+  font-family: "Montserrat", Helvetica, sans-serif !important;
+}
+.background1 {
+  background-image: linear-gradient(to right, #55c5ed, #b4e0f9);
+  width: 100vw;
+  padding: 4rem 0;
+  margin-top: 3rem;
+}
+
+.category {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+
+.summary {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  flex-direction: column;
+  margin-right: 0;
+}
+
+.name {
+  font-size: 1.5rem;
+  margin-bottom: 0.5rem;
+  display: none;
+}
+
+.kavehpic {
+  border-radius: 50%;
+  object-fit: cover;
+  width: 20rem;
+  height: 20rem;
+  border: 3px solid white;
+}
+
+.desc {
+  margin-top: 0;
+  font-weight: normal;
+  font-size: 1.25rem;
+  color: white;
+  display: none;
+}
+
+.meet {
+  font-size: 2rem;
+  color: white;
+  text-shadow: rgb(0 0 0 / 5%) 2px 2px 2px;
+}
+
+.details {
+  width: 100wh;
+  padding: 2rem;
+}
+
+.writing {
+  font-weight: normal;
+  color: white;
+  line-height: 1.5rem;
+  font-size: 1.1rem;
+  margin-bottom: 2rem;
+}
+
+.name2 {
+    color: white;
+    font-size: 1.6rem;
+}
+
+@media screen and (min-width: 768px) {
+  .category {
+    padding: 0 6rem;
+    flex-direction: row;
+    align-items: flex-start;
+
+  }
+
+  .summary {
+    margin-right: 6rem;
+  }
+
+  .name, .desc {
+    display: block;
+  }
+
+  .meet {
+    font-size: 3rem;
+    
+  }
+
+  .details {
+    padding: 1rem;
+  }
+}
+
+@media screen and (min-width: 1440px) {
+  .category {
+    padding: 0 20rem;
+  }
+
+  .summary {
+    margin-right: 10rem;
+  }
+}
