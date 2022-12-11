@@ -5,6 +5,16 @@ img {
   display: flex;
 }
 
+.logo {
+  margin-top: 1rem;
+  width: 20rem;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin-right: 0;
+  
+}
+
 .main-body {
   padding: 1rem;
 }

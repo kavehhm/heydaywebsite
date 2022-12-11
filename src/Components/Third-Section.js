@@ -1,5 +1,4 @@
-import instagram from "../ig-2.png";
-import coding from '../coding.jpg'
+
 import coding2 from "../coding2.png";
 import "./Third-Section.css";
 

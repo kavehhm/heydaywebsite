@@ -8,7 +8,7 @@ const Top = (props) => {
   };
   return (
     <div className="main-body">
-      <img src={heyday} alt="logo" />
+      <img className="logo" src={heyday} alt="logo" />
       <div className="section">
         <div className="interactives">
           <p className="header">WHAT WE DO..</p>
