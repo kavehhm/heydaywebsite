@@ -1,4 +1,6 @@
 import instagram from "../ig-2.png";
+import coding from '../coding.jpg'
+import coding2 from "../coding2.png";
 import "./Third-Section.css";
 
 const Third = () => {
@@ -30,7 +32,7 @@ const Third = () => {
             get you new eyeballs.
           </p>
         </div>
-        <img className="instagram" src={instagram} alt="Instagram Marketing" />
+        <img className="instagram" src={coding2} alt="Responsive website" />
       </div>
     </div>
   );
