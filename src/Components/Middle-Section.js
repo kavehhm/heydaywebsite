@@ -9,12 +9,12 @@ const Middle = () => {
       </div>
       <div className="card-div">
         <div className="card1">
-          <p className="topnum">3</p>
+          <p className="topnum">7</p>
           <p className="bottom">CLIENTS HELPED</p>
         </div>
         <div className="card1">
-          <p className="topnum">7k</p>
-          <p className="bottom">TOTAL AD SPEND</p>
+          <p className="topnum">3</p>
+          <p className="bottom">SIZE OF TEAM</p>
         </div>
         <div className="card1">
           <p className="topnum">2</p>
