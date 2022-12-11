@@ -1,0 +1,94 @@
+.onboardingdiv {
+  padding: 1rem;
+}
+
+.logo2 {
+  transition: box-shadow 0.3s;
+  border-radius: 2rem;
+  cursor: pointer;
+  width: 15rem;
+}
+.logo2:hover {
+  box-shadow: 10px 10px 5px lightblue;
+}
+
+.info-onboarding {
+  display: flex;
+  flex-direction: column;
+}
+
+.onboardingButton {
+  margin-top: 2rem;
+  width: 80%;
+}
+
+.onboardinginfo {
+  font-family: "Raleway", Helvetica, sans-serif;
+  font-weight: 700;
+  font-size: 2rem;
+
+}
+
+.click2 {
+    display: none;
+}
+
+.onboarding-words {
+    text-align: center;
+    color: black;
+}
+
+.onboarding-link {
+    margin-top: 2rem;
+    text-decoration: none;
+    font-size: 1rem;
+    transition: font-size 0.15s
+}
+
+.onboarding-link:hover {
+    font-size: 1.2rem;
+
+}
+
+
+.extra-div {
+    margin-top: 2rem;
+}
+
+
+@media screen and (min-width: 1024px) {
+    .onboardingdiv {
+        padding: 5rem;
+    }
+
+    .onboardingButton {
+        margin-top: 3rem;
+        width: 60%;
+      }
+
+      .click2 {
+        display: block
+      }
+
+      .logo2 {
+        width: 20rem;
+      }
+
+      .onboardinginfo {
+        font-size: 3rem;
+
+      }
+      
+  }
+
+  
+@media screen and (min-width: 1300px) {
+    
+
+    .onboardingButton {
+        margin-top: 3rem;
+        width: 50%;
+      }
+      
+  }
+
