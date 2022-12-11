@@ -12,6 +12,7 @@ img {
   justify-content: center;
   align-items: center;
   margin-right: 0;
+  margin-left: -2rem;
   
 }
 
@@ -50,6 +51,7 @@ p, .main-body h1 {
   padding: 15px 25px;
   cursor: pointer;
   transition: box-shadow 0.1s, background-image 5s;
+  width: 100%;
 }
 
 .bookButton:hover {
@@ -66,12 +68,17 @@ button p {
 .interactives {
   display: flex;
   flex-direction: column;
-  margin-left: 1rem;
 }
 
 .bookcall {
   font-weight: 700;
   font-size: 1.5rem;
+}
+
+.bookcontainer {
+  display: flex;
+  align-items: center;
+  justify-content: center;
 }
 
 .clickhere {
@@ -109,6 +116,8 @@ button p {
 
   .computer {
     display: block;
+    margin-bottom: -2rem;
+    margin-top: 1rem;
   }
 
   .computer1 {
@@ -116,6 +125,6 @@ button p {
   }
 
   .main-body {
-    padding: 1rem 6rem;
+    padding: 1rem 6rem 4rem 6rem;
   }
 }

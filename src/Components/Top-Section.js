@@ -17,10 +17,12 @@ const Top = (props) => {
             and Search Engine Optimization
           </h1>
           <img className="computer1" src={computer} alt="computer" />
-          <button onClick={buttonHandler} className="bookButton">
-            <p className="bookcall">Book Your Call Now</p>
-            <p className="clickhere">Click here to book a call with us</p>
-          </button>
+          <div className="bookcontainer">
+            <button onClick={buttonHandler} className="bookButton">
+              <p className="bookcall">Book Your Call Now</p>
+              <p className="clickhere">Click here to book a call with us</p>
+            </button>
+          </div>
         </div>
         <img className="computer" src={computer} alt="computer" />
       </div>

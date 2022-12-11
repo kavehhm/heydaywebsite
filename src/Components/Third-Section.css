@@ -1,6 +1,7 @@
 @import url("https://fonts.googleapis.com/css2?family=Montserrat:wght@400;600;700&family=Raleway:wght@400;600;700&display=swap");
 
-.parting p, .parting h1 {
+.parting p,
+.parting h1 {
   font-family: "Montserrat", Helvetica, sans-serif;
 }
 
@@ -34,7 +35,6 @@
 
 .instagram {
   width: 20rem;
-  margin-left: 4rem;
   object-fit: contain;
 }
 
@@ -63,14 +63,13 @@
   }
 
   .instagram {
-    width: 45%
+    width: 45%;
+    margin-left: 4rem;
   }
 
   .approach {
     font-size: 4rem;
   }
-
-  
 }
 
 @media screen and (min-width: 1600px) {
