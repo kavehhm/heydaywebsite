@@ -9,7 +9,7 @@ img {
   padding: 1rem;
 }
 
-p {
+p, .main-body h1 {
   text-align: left;
   font-family: "Raleway", Helvetica, sans-serif;
   font-weight: 700;
@@ -24,7 +24,7 @@ p {
 }
 
 .Info {
-  font-size: 2.5rem;
+  font-size: 2.7rem;
   background: -webkit-linear-gradient(right, #2f80ed, #56ccf2) !important;
   -webkit-background-clip: text !important;
   -webkit-text-fill-color: transparent !important;
