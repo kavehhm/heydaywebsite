@@ -25,9 +25,9 @@ function App() {
           <Calendar ref={resultRef} />
         </Route>
         <Route path="/onboarding" exact>
-          <Redirect to="/onboarding/1" />
+          <Redirect to="/onboarding/step-1" />
         </Route>
-        <Route path="/onboarding/:id" exact>
+        <Route path="/onboarding/step-:id" exact>
           <Onboarding />
         </Route>
       </Switch>

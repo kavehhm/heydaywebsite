@@ -49,9 +49,9 @@ const Onboarding = (props) => {
 
   let directory = "/onboarding/1";
   if (id === 4) {
-    directory = "/onboarding/1";
+    directory = "/onboarding/step-1";
   } else {
-    directory = `/onboarding/${id + 1}`;
+    directory = `/onboarding/step-${id + 1}`;
   }
 
   console.log(directory);
