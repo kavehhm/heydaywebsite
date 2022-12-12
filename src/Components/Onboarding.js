@@ -9,21 +9,21 @@ const Onboarding = (props) => {
   const videoInfo = [
     {
       title: "Step 1: What To Expect",
-      url: "L93hyPiltLA",
+      url: "l_jQndk_QU4",
       button1: "Take Me To The Next Step (2/4)",
       button2: "Click Here To Go To The Next Step In The Onboarding",
       additionalInfo: null,
     },
     {
       title: "Step 2: Contract & Invoice Payment",
-      url: "placeholder",
+      url: "KGn_tLbhZqA",
       button1: "Take Me To The Next Step (3/4)",
       button2: "Click Here To Go To The Next Step In The Onboarding",
       additionalInfo: null,
     },
     {
       title: "Step 3: Domain Access",
-      url: "placeholder",
+      url: "TRKvN3xu-ts",
       button1: "Take Me To The Last Step (4/4)",
       button2: "Click Here To Go To The Last Step In The Onboarding",
       additionalInfo: {
@@ -34,8 +34,8 @@ const Onboarding = (props) => {
       },
     },
     {
-      title: "Step 4: Asset Access",
-      url: "placeholder",
+      title: "Step 4: Asset Handoff",
+      url: "xtKyX0SNTjk",
       button1: "Take Me Back To The First Step (1/4)",
       button2: "Click Here To Go To The First Step In The Onboarding",
       additionalInfo: null,
