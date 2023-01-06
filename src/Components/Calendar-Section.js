@@ -35,35 +35,35 @@ const Calendar = forwardRef((props, ref) => {
           <li>
             <img src={Check} alt="Check" />
             <p>
-              Web3 projects looking to convert their current website into a{" "}
+              Businesses looking to convert their current website into a{" "}
               <b>high quality & streamlined funnel format.</b>
             </p>
           </li>
           <li>
             <img src={Check} alt="Check" />
             <p>
-              Web3 projects looking to take their project <b>online.</b>
+              Businesses looking to take their company <b>online.</b>
             </p>
           </li>
           <li>
             <img src={Check} alt="Check" />
             <p>
-              ​Web3 projects looking to increase their{" "}
-              <b> revenue potential </b> with improved design & contract
+              ​Businesses looking to increase their{" "}
+              <b> revenue potential </b> with improved design & search engine
               optimization.
             </p>
           </li>
           <li>
             <img src={Check} alt="Check" />
             <p>
-              Web3 projects looking to{" "}
+              Businesses looking to{" "}
               <b>maximize their online conversion rates & eyeballs reached.</b>
             </p>
           </li>
           <li>
             <img src={Check} alt="Check" />
             <p>
-              ​Web3 projects looking for a reliable agency that can{" "}
+              ​Businesses looking for a reliable agency that can{" "}
               <b>make their company a priority.</b>
             </p>
           </li>
