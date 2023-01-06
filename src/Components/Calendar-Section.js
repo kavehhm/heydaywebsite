@@ -21,7 +21,7 @@ const Calendar = forwardRef((props, ref) => {
         <h1 className="free-demo">Free 15-Minute Demo Call</h1>
         <p className="text-block">
           By the end of this Audit call, you will have a clear understanding of
-          the next steps you can take for your Web3 project to refresh its online
+          the next steps you can take for your business to refresh its online
           presence.
         </p>
         <p className="text-block">

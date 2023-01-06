@@ -15,7 +15,7 @@ const Founder = () => {
 
                 <div className="details">
                     <p className='meet'>MEET THE FOUNDER</p>
-                    <p className='writing'>Founded by Kaveh Malekzadeh who has spent 2 years developing and optimizing for Web3 projects online. </p>
+                    <p className='writing'>Founded by Kaveh Malekzadeh who has spent 2 years developing and optimizing for businesses projects online. </p>
                     <p className='writing'>As a result of being involved in many companies and projects, Kaveh has found many different talents from across the world. Our team prioritizes the client and will stop at nothing to make sure their demands are met.</p>
                     <p className='name2'>- Founder</p>
                 </div>
