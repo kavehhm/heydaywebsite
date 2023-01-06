@@ -13,8 +13,8 @@ const Top = (props) => {
         <div className="interactives">
           <p className="header">WHAT WE DO..</p>
           <h1 className="Info">
-            We Help Local Businesses Acquire More Clients Through Website
-            and Search Engine Optimization
+            We Help Web3 Projects Successfully Set Up What They Need To Get
+            Started
           </h1>
           <img className="computer1" src={computer} alt="computer" />
           <div className="bookcontainer">

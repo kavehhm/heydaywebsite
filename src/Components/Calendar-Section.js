@@ -21,7 +21,7 @@ const Calendar = forwardRef((props, ref) => {
         <h1 className="free-demo">Free 15-Minute Demo Call</h1>
         <p className="text-block">
           By the end of this Audit call, you will have a clear understanding of
-          the next steps you can take for your business to refresh its online
+          the next steps you can take for your Web3 project to refresh its online
           presence.
         </p>
         <p className="text-block">
@@ -35,35 +35,35 @@ const Calendar = forwardRef((props, ref) => {
           <li>
             <img src={Check} alt="Check" />
             <p>
-              Businesses looking to convert their current website into a{" "}
+              Web3 projects looking to convert their current website into a{" "}
               <b>high quality & streamlined funnel format.</b>
             </p>
           </li>
           <li>
             <img src={Check} alt="Check" />
             <p>
-              Businesses looking to take their offline business <b>online.</b>
+              Web3 projects looking to take their project <b>online.</b>
             </p>
           </li>
           <li>
             <img src={Check} alt="Check" />
             <p>
-              ​Businesses looking to increase their{" "}
-              <b> revenue potential </b> with new design & search engine
+              ​Web3 projects looking to increase their{" "}
+              <b> revenue potential </b> with improved design & contract
               optimization.
             </p>
           </li>
           <li>
             <img src={Check} alt="Check" />
             <p>
-              Businesses looking to{" "}
+              Web3 projects looking to{" "}
               <b>maximize their online conversion rates & eyeballs reached.</b>
             </p>
           </li>
           <li>
             <img src={Check} alt="Check" />
             <p>
-              ​Businesses looking for a reliable agency that can{" "}
+              ​Web3 projects looking for a reliable agency that can{" "}
               <b>make their company a priority.</b>
             </p>
           </li>
